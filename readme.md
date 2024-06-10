@@ -25,6 +25,6 @@ PORT = 3000
 ```
 
 ## Screenshots:
-![img1](./1.png)
-![img2](./2.png)
-![img3](./3.png)
+![img1](scrshot/1.png)
+![img2](scrshot/2.png)
+![img3](scrshot/3.png)
