@@ -1,5 +1,12 @@
 ## Minimal TO DO application with MERN Stack
 
+## Details
+### Forntend
+Uses axios, react-icons, reactjs, vite
+### Backend
+Uses MangoDB(mongooes), expressJS, dotenv
+
+
 ## Installation and run
 ```sh
 clone the repo
